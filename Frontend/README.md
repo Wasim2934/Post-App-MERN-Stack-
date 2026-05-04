@@ -40,8 +40,8 @@ This project demonstrates real-world handling of file uploads using a cloud stor
 
 ## 📷 Screenshots
 
-![Home Page](./src/screenshot/image1.png)
-![Upload Page](./src/screenshot/image2.png)
+![Home Page](./Frontend/src/screenshot/image1.png)
+![Upload Page](./Frontend/src/screenshot/image2.png)
 
 ---
 
